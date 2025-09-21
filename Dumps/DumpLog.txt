@@ -1,0 +1,5 @@
+[2025-09-20 20:07:07]
+Dump File: 092025-40578-01.dmp
+Size: 2.86 MB
+Source: C:\Windows\Minidump\092025-40578-01.dmp
+Target: C:\Users\Admin\Desktop\Dumps\092025-40578-01.dmp
